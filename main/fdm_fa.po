@@ -18,7 +18,7 @@ msgstr ""
 
 msgctxt "AboutDialog|"
 msgid "Build date: %1"
-msgstr ""
+msgstr "تاریخ ساخت: %1"
 
 msgctxt "AboutDialog|"
 msgid "version %1"
@@ -134,15 +134,15 @@ msgstr "بکاپ گرفتن از لیست دانلودها هر"
 
 msgctxt "AdvancedSettings|"
 msgid "File exists reaction"
-msgstr ""
+msgstr "واکنش در برابر دانلود مجدد فایل موجود"
 
 msgctxt "AdvancedSettings|"
 msgid "Rename"
-msgstr ""
+msgstr "تغییر نام"
 
 msgctxt "AdvancedSettings|"
 msgid "Overwrite"
-msgstr ""
+msgstr "جایگزینی"
 
 msgctxt "AdvancedSettings|"
 msgid "Use sounds"
