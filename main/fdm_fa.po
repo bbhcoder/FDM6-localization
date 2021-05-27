@@ -18,7 +18,7 @@ msgstr ""
 
 msgctxt "AboutDialog|"
 msgid "Build date: %1"
-msgstr ""
+msgstr "تاریخ ساخت: %1"
 
 msgctxt "AboutDialog|"
 msgid "version %1"
@@ -134,15 +134,15 @@ msgstr "بکاپ گرفتن از لیست دانلودها هر"
 
 msgctxt "AdvancedSettings|"
 msgid "File exists reaction"
-msgstr ""
+msgstr "واکنش در برابر دانلود مجدد فایل موجود"
 
 msgctxt "AdvancedSettings|"
 msgid "Rename"
-msgstr ""
+msgstr "تغییر نام"
 
 msgctxt "AdvancedSettings|"
 msgid "Overwrite"
-msgstr ""
+msgstr "جایگزینی"
 
 msgctxt "AdvancedSettings|"
 msgid "Use sounds"
@@ -183,7 +183,7 @@ msgstr "انتخاب پوسته"
 
 msgctxt "AdvancedSettings|"
 msgid "A light theme will be used, if the system theme is unknown."
-msgstr ""
+msgstr "در صورت عدم تشخیص تم سیستم یک تم روشن انتخاب می‌شود."
 
 msgctxt "AntivirusComboBox|"
 msgid "Configure manually..."
@@ -239,19 +239,19 @@ msgstr "انصراف"
 
 msgctxt "AppDenyShutdownIfHasOpsWithNoResumeSupportSwitch|"
 msgid "Downloads with no resume support (%1)."
-msgstr ""
+msgstr "دانلود بدون قابلیت ایست ... (%1)"
 
 msgctxt "AppDenyShutdownIfHasOpsWithNoResumeSupportSwitch|"
 msgid "Moving files (%1)."
-msgstr ""
+msgstr "انتقال فایل ها (%1)"
 
 msgctxt "AppDenyShutdownIfHasOpsWithNoResumeSupportSwitch|"
 msgid "Converting files to mp3 (%1)."
-msgstr ""
+msgstr "تبدیل فایل ها به mp3 (%1)"
 
 msgctxt "AppDenyShutdownIfHasOpsWithNoResumeSupportSwitch|"
 msgid "Converting files to mp4 (%1)."
-msgstr ""
+msgstr "تبدیل فایل ها به mp4 (%1)"
 
 msgctxt "AppDenyShutdownIfHasOpsWithNoResumeSupportSwitch|"
 msgid "Merging media streams (%1)."
@@ -259,7 +259,7 @@ msgstr ""
 
 msgctxt "AppQuitConfirmationUiManager|"
 msgid "There are operations with no resume capability in progress"
-msgstr ""
+msgstr "این عملیات بدون قابلیت ادامه مجدد است..."
 
 msgctxt "AuthenticationDialog|"
 msgid "Authentication required"
@@ -379,7 +379,7 @@ msgstr "قرار دادن"
 
 msgctxt "BatchVideoQuality|"
 msgid "Max. video quality:"
-msgstr ""
+msgstr "بیشترین کیفیت ویدیو"
 
 msgctxt "BitrateComboBox|"
 msgid "kbps"
@@ -579,11 +579,11 @@ msgstr "(مرورگر نصب نشده است)"
 
 msgctxt "BtStrings|"
 msgid "Uploaded"
-msgstr ""
+msgstr "بارگذاری شده"
 
 msgctxt "BtStrings|"
 msgid "Ratio"
-msgstr ""
+msgstr "امتیاز"
 
 msgctxt "BuildDownloadDialog|"
 msgid "Add download"
@@ -591,7 +591,7 @@ msgstr "افزودن دانلود"
 
 msgctxt "BuildDownloadDialog|"
 msgid "Report problem"
-msgstr ""
+msgstr "یک مشکل گزارش شد"
 
 msgctxt "BuildDownloadDialog|"
 msgid "Cancel"
@@ -619,7 +619,7 @@ msgstr "تایید"
 
 msgctxt "BuildDownloadPage|"
 msgid "Report problem"
-msgstr ""
+msgstr "یک مشکل گزارش شد"
 
 msgctxt "BuildDownloadPage|"
 msgid "Downloading from this site is not allowed"
@@ -715,7 +715,7 @@ msgstr "ورود URL جدید"
 
 msgctxt "ChangeUrlPage|"
 msgid "File location: %1"
-msgstr ""
+msgstr "مکان فایل: %1"
 
 msgctxt "ChangeUrlPage|"
 msgid "Start download"
@@ -747,7 +747,7 @@ msgstr "کپی کردن"
 
 msgctxt "CppQmlApp|"
 msgid "Are you sure you want to quit?"
-msgstr ""
+msgstr "آیا از خروج خود اطمینان دارید؟"
 
 msgctxt "CrashReporter|"
 msgid ""
@@ -962,19 +962,19 @@ msgstr "حجم: %1"
 
 msgctxt "DockUploadSpeedSetting|"
 msgid "Show total upload speed in the Dock icon"
-msgstr ""
+msgstr "نشان دادن سرعت آپلود در آیکون داک"
 
 msgctxt "DownloadWindow|"
 msgid "Saved in"
-msgstr ""
+msgstr "ذخیره شده در"
 
 msgctxt "DownloadWindow|"
 msgid "File size"
-msgstr ""
+msgstr "اندازه فایل"
 
 msgctxt "DownloadWindow|"
 msgid "Resume support"
-msgstr ""
+msgstr "قابلیت ایست"
 
 msgctxt "DownloadWindow|"
 msgid "Yes"
@@ -986,11 +986,11 @@ msgstr "نه"
 
 msgctxt "DownloadWindow|"
 msgid "Unknown"
-msgstr ""
+msgstr "ناشناخته"
 
 msgctxt "DownloadWindow|"
 msgid "Downloaded"
-msgstr ""
+msgstr "دانلود شده"
 
 msgctxt "DownloadWindow|"
 msgid "Speed"
@@ -998,15 +998,15 @@ msgstr "سرعت"
 
 msgctxt "DownloadWindow|"
 msgid "Time remaining"
-msgstr ""
+msgstr "یادآور زمان"
 
 msgctxt "DownloadWindow|"
 msgid "Open download when it is completed"
-msgstr ""
+msgstr "باز کردن دانلود زمانی که تمام شد"
 
 msgctxt "DownloadWindow|"
 msgid "Close this window when the download is completed or stopped"
-msgstr ""
+msgstr "زمانی که دانلود تمام یا متوقف شد، این پنجره بسته شود"
 
 msgctxt "DownloadWindow|"
 msgid "Hide"
@@ -1022,15 +1022,15 @@ msgstr "باز کردن"
 
 msgctxt "DownloadWindow|"
 msgid "Stop"
-msgstr ""
+msgstr "توقف"
 
 msgctxt "DownloadWindow|"
 msgid "Start"
-msgstr ""
+msgstr "شروع"
 
 msgctxt "DownloadsItemTools|"
 msgid "Moving"
-msgstr ""
+msgstr "انتقال"
 
 msgctxt "DownloadsItemTools|"
 msgid "Checking for viruses"
@@ -1046,7 +1046,7 @@ msgstr "در حال تبدیل به mp4"
 
 msgctxt "DownloadsItemTools|"
 msgid "Calculating hash"
-msgstr ""
+msgstr "محاسبه هاش"
 
 msgctxt "DownloadsItemTools|"
 msgid "File is missing"
@@ -1206,7 +1206,7 @@ msgstr "نمایش در پوشه"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Report problem"
-msgstr ""
+msgstr "یک مشکل گزارش شد"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Show Downloads"
@@ -1374,20 +1374,20 @@ msgstr "کامل شد"
 
 msgctxt "EditTagDialog|"
 msgid "Edit tag"
-msgstr ""
+msgstr "ویرایش عنوان"
 
 msgctxt "EditTagDialog|"
 msgid "Tag"
-msgstr ""
+msgstr "عنوان گروه"
 
 msgctxt "EditTagDialog|"
 msgid "Extensions (e.g. \"avi mp3\")"
-msgstr ""
+msgstr "پسوند (برای مثال \"avi mp3\")"
 
 msgctxt "EditTagDialog|"
 msgid ""
 "Extensions that are automatically assigned with this tag for new downloads"
-msgstr ""
+msgstr "به صورت خودکار فایل‌های دارای این پیشوند به این گروه اضافه می‌شوند."
 
 msgctxt "EditTagDialog|"
 msgid "Default download folder"
@@ -1411,11 +1411,11 @@ msgstr "تایید"
 
 msgctxt "EnvTools|"
 msgid "Low battery"
-msgstr ""
+msgstr "باطری ضعیف است"
 
 msgctxt "EnvTools|"
 msgid "Data roaming disabled"
-msgstr ""
+msgstr "غیر فعالسازی داده تلفن همراه در رومینگ"
 
 msgctxt "EnvTools|"
 msgid "No Internet connection"
@@ -1427,11 +1427,11 @@ msgstr "استفاده از داده موبایل غیر فعال است"
 
 msgctxt "ExistingFileReactionCombobox|"
 msgid "Rename"
-msgstr ""
+msgstr "تغییر نام"
 
 msgctxt "ExistingFileReactionCombobox|"
 msgid "Overwrite"
-msgstr ""
+msgstr "جایگزینی"
 
 msgctxt "ExistingFileReactionCombobox|"
 msgid "Always ask"
@@ -1627,23 +1627,23 @@ msgstr "نزولی"
 
 msgctxt "FileType|"
 msgid "File type:"
-msgstr ""
+msgstr "نوع فایل"
 
 msgctxt "FilesExistsDialog|"
 msgid "Warning: file exists already"
-msgstr ""
+msgstr "اخطار: این فایل وجود دارد"
 
 msgctxt "FilesExistsDialog|"
 msgid "Remember my choice for all downloads"
-msgstr ""
+msgstr "انتخاب من را برای تمام دانلودها به یاد آور"
 
 msgctxt "FilesExistsDialog|"
 msgid "Rename (%1)"
-msgstr ""
+msgstr "تغییر نام (%1)"
 
 msgctxt "FilesExistsDialog|"
 msgid "Overwrite"
-msgstr ""
+msgstr "جایگزینی"
 
 msgctxt "FilesExistsDialog|"
 msgid "Abort"
